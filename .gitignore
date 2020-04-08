@@ -33,9 +33,9 @@
 
 #Directroes
 
-binDebug/
-bin-inrDebug/
-binRelease/
-bin-inrRelease/
+bin/
+bin-int/
+bin/
+bin-int/
 .vs/
 
