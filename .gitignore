@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+#Directroes
+
+binDebug/
+bin-inrDebug/
+binRelease/
+bin-inrRelease/
+.vs/
+
